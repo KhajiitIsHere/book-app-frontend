@@ -1,0 +1,12 @@
+
+.ul{
+    display: flex;
+    align-items: center;
+    padding: 2em 0;
+    border-bottom: 1px solid rgba(48,17,19,0.59)
+}
+
+.actions{
+    display: flex;
+    flex-direction: column;
+}
