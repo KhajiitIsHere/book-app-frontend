@@ -12,7 +12,7 @@ const BookItem = props => {
                 {props.category}
             </div>
             <div className={'col'}>
-                <span className={'badge badge-secondary p-2'}>
+                <span className={'badge bg-secondary p-2'}>
                     {props.availableCopies}
                 </span>
             </div>
